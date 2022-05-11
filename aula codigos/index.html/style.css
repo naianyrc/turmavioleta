@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size:22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: bisque;
+    color:black;
+}
+li{
+    list-style: none;
+}
+#container{
+    width: 290px;
+    text-align: center;
+    height: auto;
+    margin:4px auto;
+}
+#calculadora{
+    width: 234px;
+    height: 230px;
+    margin:0%;
+    padding: 2px;
+    background-color: blueviolet;
+}
+.input-valor{
+    margin: 8px auto;
+    width: 95%;
+    height: 30px;
+    font-size: 16px;
+    overflow: hidden;
+    text-align: right;
+    color:coral;
+    padding: 4px;
+    background-color: vhite;
+    box-shadow: inset -1px -1px 4px 1px #eee;
+}
